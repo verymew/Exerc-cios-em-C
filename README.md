@@ -1,2 +1,2 @@
-# Exerc-cios-em-C
+# Exercícios em C
 Primeiro semestre
